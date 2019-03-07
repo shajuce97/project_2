@@ -4,7 +4,7 @@ public class main {
 
         int a ;
         a = 1 ;
-        string a = "hello shaju";
+        String b = "hello shaju";
         System.out.println( a );
 
 
