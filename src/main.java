@@ -5,7 +5,7 @@ public class main {
         int a ;
         a = 800 ;
         String b = "hello shaju bye shaju";
-        int d = 1320 ;
+        int d = 10 ;
         System.out.println( a + b );
         System.out.println("aaabbbb");
         System.out.println( a / d ) ;
