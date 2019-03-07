@@ -6,6 +6,7 @@ public class main {
         a = 2 ;
         String b = "hello shaju";
         System.out.println( a + b );
+        System.out.println("aaabbbb");
 
 
     }
